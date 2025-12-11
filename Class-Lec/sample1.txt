@@ -1,0 +1,2 @@
+we are learning  file io in the next line using python 
+i like prograaming in python

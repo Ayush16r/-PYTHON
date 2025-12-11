@@ -1,0 +1,10 @@
+Reading file
+
+ read()
+ read(size)
+ readline()
+ readline(size)
+ readlines()
+
+
+ 
